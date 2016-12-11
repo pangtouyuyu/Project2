@@ -2,7 +2,7 @@
 
 With this code.
 
-You can get the result of to polynomials.
+You can get the result of adding two polynomials.
 
 For example:
 
